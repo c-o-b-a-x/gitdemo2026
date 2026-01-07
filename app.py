@@ -1,4 +1,5 @@
 print ("Git/Github Demo")
 #some comment
-
+print ("this is an okay day-remote")
 print ("This is a great day")
+print ("This day works for me -remote")
